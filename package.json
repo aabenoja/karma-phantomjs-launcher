@@ -17,7 +17,7 @@
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {
-    "phantomjs": "~1.9"
+    "phantomjs": "https://github.com/aabenoja/phantomjs/archive/v2.0.1-0.tar.gz"
   },
   "peerDependencies": {
     "karma": ">=0.9"
