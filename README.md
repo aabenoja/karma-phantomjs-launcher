@@ -2,6 +2,8 @@
 
 > Launcher for [PhantomJS].
 
+This is a fork of karma-runner/karma-phantomjs-launcher to point to my fork of Medium/phantomjs. This is only to trick phantomjs to pulling down the v2.0.0 binaries from the cdn.
+
 ## Installation
 
 The easiest way is to keep `karma-phantomjs-launcher` as a devDependency in your `package.json`.
